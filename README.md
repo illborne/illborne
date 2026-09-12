@@ -44,4 +44,4 @@ $\color{#8a1700}{\textsf{IL}}\color{#730017}{\textsf{LB}}\color{#5e002f}{\textsf
   </details>
     </th>
   </table>
-ㅤㅤㅤㅤㅤㅤㅤㅤ<sub><sub><a href="https://github.com/KALININGRAD-OBLAST">Main</a></sub></sub>ㅤㅤㅤㅤ<sub><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></sub>
+ㅤㅤㅤㅤㅤㅤ<sub><sub><a href="https://github.com/KALININGRAD-OBLAST">Main</a></sub></sub>ㅤㅤㅤㅤㅤㅤ<sub><sub><a href="https://pluralkit.xyz/f/nnfsba">Current fronters</a></sub></sub>
